@@ -1,2 +1,2 @@
-# Economics-of-Artificial-Intelligence
-Policy proposal 
+# Policy notes
+## ECON1626 (s4100205)
