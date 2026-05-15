@@ -36,3 +36,15 @@ This model is based on and learns from an existing program called the Industry G
 
 This option addresses industry-structure risk. SME support would help spread productivity benefits, protect competition and avoid large firms’ domination. 
 The limitation is that targeting poorly designed grants may not address the problem or firms effectively. 
+
+## Final Recommended Package and Implementation Plan
+
+Each of the policy proposals targets a different aspect of the labour market, so the most effective package would require a combination of all in a coherent, comprehensive strategy guideline, where a clear timeline is needed, with different government departments in charge of taking responsibilities. The Department of Employment and Workplace collaborates with the Department of Industry, Science and Resources (DISR) to help workers adapt. At the same time, the Australian Competition and Consumer Commission (ACCC) should monitor the AI adaptation and usage in big firms, helping to identify any overly competitive advantage risks, and the risk of harming small businesses can be eliminated, and the knowledge can be spilled over to SMEs. The most effective response would require a combination of all three policy proposals because the AI transition affects workers, wages and firm competitiveness differently across the labour market. This package aims to improve labour-market readiness, reduce hidden transition costs for workers, and prevent widening competitive and productivity gaps between large firms and SMEs, which requires the Australian government and multiple departments to collaborate. Implementation should occur in stages. 
+
+In Year 1, the Department of Employment and Workplace Relations should collaborate with the Department of Industry, Science and Resources (DISR), education organisations, TAFEs, universities, and related industry bodies to identify highly exposed sectors and begin experimental retraining or changing study programming and workplace redesign programs. In 
+
+Years 2–3, SME AI transition funding and advisory programs should expand funding by the Australian Government and be managed by the Department of Industry, Science and Resources (DISR). The Australian Competition and Consumer Commission (ACCC) should monitor AI adoption in large firms to reduce unfair competitive advantages and improve knowledge spillover toward SMEs. 
+
+The main implementation risks include training mismatch, rapidly changing AI capabilities, compliance burden and ineffective grant allocation. These risks can be reduced through regular policy review, targeted eligibility requirements and industry consultation. 
+
+The success of the package should be measured through retraining participation and completion rates, re-employment outcomes for affected workers, SME AI adoption rates, annual workplace AI disclosure compliance, and changes in productivity gaps between SMEs and large firms.
