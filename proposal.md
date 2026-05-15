@@ -78,4 +78,8 @@ Parliament of Australia (2025) *Potential impact of artificial intelligence (AI)
 
 Rigotti M (2025) *How excessive regulation is affecting Australian innovation and productivity*, Australian Institute of Company Directors website, accessed 15 May 2026. https://www.aicd.com.au/leadership/types/management/how-excessive-regulation-is-affecting-australian-innovation-and-productivity.html
 
+## AI Use Acknowledgement
+
+I used ChatGPT and Codex (OpenAI 2026) within the VS Code environment to assist with understanding the assessment requirements, summarising readings and government reports, improving Markdown formatting, and providing feedback on structure and clarity. AI tools were also used to assist with technical formatting and language refinement. All analysis, arguments, verification of sources, and final decisions in choosing and presenting the content in this work are my own.
+
 
