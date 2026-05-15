@@ -52,6 +52,10 @@ The main implementation risks include training mismatch, rapidly changing AI cap
 
 The success of the package should be measured through retraining participation and completion rates, re-employment outcomes for affected workers, SME AI adoption rates, annual workplace AI disclosure compliance, and changes in productivity gaps between SMEs and large firms.
 
+<p align="right">
+<strong>Word Count: 1242</strong>
+</p>
+
 ## References
 
 Acemoglu D and Restrepo P (2019) 'Automation and new tasks: how technology displaces and reinstates labor', *Journal of Economic Perspectives*, 33(2):3-30, doi:10.1257/jep.33.2.3.
