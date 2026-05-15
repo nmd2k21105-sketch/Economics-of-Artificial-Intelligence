@@ -11,3 +11,28 @@ New technologies, automation and AI change labour demand through displacement an
 These strongly bring to a solid issue with task and workflow redesign in the current changing AI world. As AI automates more routine cognitive functions, comparative advantage in many white-collar occupations may increasingly shift toward human oversight, verification, contextual judgement, interpersonal trust and accountability. A peer-reviewed article analysis 5,172 customer-support agents:  suggests AI assistance raised productivity by 15 per cent on average and helped less experienced workers most (Brynjolfsson et al. 2025). Wage effects are likely uneven. Higher productivity does not guarantee higher worker pay. Automation can reduce labour's share even while output rises, and Australian parliamentary analysis also warns AI gains may widen inequality if some occupations and firms benefit more than others (Acemoglu and Restrepo 2019; Parliament of Australia 2025). 
 
 Industry structure may also shift as larger firms have greater access to data, capital and AI infrastructure, and adopt more rapidly, when smaller firms face higher implementation barriers, potentially widening productivity gaps across firms and causing uneven competition (KOF 2025). The policy problem is therefore uneven transition, not simply job loss. 
+
+
+## Policy Options and Evaluation
+
+### Option 1: AI Workplace Redesign and Skills Partnership
+
+The government should fund a target sector that is affected the most by AI, collaborate with companies and education organisations, unions, and industry bodies, monitor how AI changes tasks and how workflow is redesigned to provide support for retraining and prepare a new future workforce ready with new tech. 
+
+This option is effective because it treats AI adoption as an organisational transition and addresses the skills that are needed. 
+Historical evidence from the IT era suggests productivity gains required complementary changes in business processes, skills and workplace organisation restructuring (Kroszner 2006). The limitation is cost and uncertainty: AI capabilities are changing so rapidly that they require training to be updated regularly.
+
+### Option 2: Workplace AI Disclosure Standards
+
+Large employers using AI for hiring, performance management, customer service, or major task redesign should publish workplace AI impact statements. These should identify which systems are used, which tasks are affected, expected employment impacts, require a standard consultation with workers, retraining plans and safeguards against unfairly replacing workers. 
+
+This option improves transparency and gives the government better evidence about how AI is changing work. It also reduces the risk that firms capture productivity gains while workers bear hidden adjustment costs. 
+The main weakness is the compliance burden. AICD provide a perspective that excessive or rushed, unclear regulation or policy would kill innovation and productivity (Rigotti 2025). To remain feasible, reporting should apply first to large firms and high-impact uses, not every minor AI tool.
+
+### Option 3: SME AI Diffusion and Transition Fund
+
+The government should create an AI subsidies fund for SMEs, financed through public funding or a levy co-contribution from large firms utilising AI on a large scale. Supporting practical AI adoption for SMEs.  Making access to advisory services through industry bodies about related matters.
+This model is based on and learns from an existing program called the Industry Growth Program, which is focused on providing advisory and capital support for early-stage commercialisation of innovative SMEs (Australian Government n.d.).
+
+This option addresses industry-structure risk. SME support would help spread productivity benefits, protect competition and avoid large firms’ domination. 
+The limitation is that targeting poorly designed grants may not address the problem or firms effectively. 
