@@ -48,3 +48,31 @@ Years 2–3, SME AI transition funding and advisory programs should expand fundi
 The main implementation risks include training mismatch, rapidly changing AI capabilities, compliance burden and ineffective grant allocation. These risks can be reduced through regular policy review, targeted eligibility requirements and industry consultation. 
 
 The success of the package should be measured through retraining participation and completion rates, re-employment outcomes for affected workers, SME AI adoption rates, annual workplace AI disclosure compliance, and changes in productivity gaps between SMEs and large firms.
+
+## References
+
+Acemoglu D and Restrepo P (2019) 'Automation and new tasks: how technology displaces and reinstates labor', *Journal of Economic Perspectives*, 33(2):3-30, doi:10.1257/jep.33.2.3.
+
+Australian Government (n.d.) *Industry Growth Program*, business.gov.au website, accessed 15 May 2026. https://business.gov.au/grants-and-programs/industry-growth-program
+
+Berg J, Kaminski K, Konopczynski F, Ladna A, Roslaniec K and Troszynski M (2025) *Generative AI and jobs: a refined global index of occupational exposure*, ILO Working Paper 140, International Labour Organization, accessed 15 May 2026. https://webapps.ilo.org/static/english/intserv/working-papers/wp140/index.html
+
+Brynjolfsson E, Li D and Raymond LR (2025) 'Generative AI at work', *The Quarterly Journal of Economics*, 140(2):889-942, doi:10.1093/qje/qjae044.
+
+Eloundou T, Manning S, Mishkin P and Rock D (2024) 'GPTs are GPTs: labor market impact potential of LLMs', *Science*, 384(6702):1306-1308, doi:10.1126/science.adj0998.
+
+Heß P, Janssen S and Leber U (2023) 'The effect of automation technology on workers' training participation', *Economics of Education Review*, 96:102438, doi:10.1016/j.econedurev.2023.102438.
+
+Jobs and Skills Australia (2025) *Our Gen AI transition: implications for work and skills*, Jobs and Skills Australia website, accessed 15 May 2026. https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report
+
+KOF (Swiss Economic Institute) (2025) *Digital technology: are small firms being left behind?*, KOF Swiss Economic Institute website, accessed 15 May 2026. https://kof.ethz.ch/en/publications/kof-insights/articles/2025/02/digital-technology-are-small-firms-being-left-behind.html
+
+Kroszner RS (2006) *What drives productivity growth? Implications for the economy and prospects for the future*, Board of Governors of the Federal Reserve System website, accessed 15 May 2026. https://www.federalreserve.gov/newsevents/speech/Kroszner20060927a.htm
+
+OECD (2023) *OECD Employment Outlook 2023: artificial intelligence and the labour market*, OECD Publishing, doi:10.1787/08785bba-en.
+
+Parliament of Australia (2025) *Potential impact of artificial intelligence (AI) on the Australian workforce*, Parliament of Australia website, accessed 15 May 2026. https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/Issues_and_Insights/48th_Parliament/potentialimpactofArtificialIntelligence
+
+Rigotti M (2025) *How excessive regulation is affecting Australian innovation and productivity*, Australian Institute of Company Directors website, accessed 15 May 2026. https://www.aicd.com.au/leadership/types/management/how-excessive-regulation-is-affecting-australian-innovation-and-productivity.html
+
+
